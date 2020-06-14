@@ -9,7 +9,7 @@
 </style>
 <body class="w3-light-grey w3-content" style="max-width:1600px">
 <!-- Sidebar/menu -->
-<p>Welcome to my website</p>
+<p>Welcome to Abhinav Page </p>
 <div class="w3-bar-block">
 <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a> 
 <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>What things I like to do?</a>
@@ -96,6 +96,5 @@ function w3_close() {
     document.getElementById("myOverlay").style.display = "none";
 }
 </script>
-
 </body>
 </html>
